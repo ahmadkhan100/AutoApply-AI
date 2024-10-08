@@ -2,7 +2,7 @@ import json
 import re
 
 def sanitize_text(text: str) -> str:
-    # Remove duplicates by splitting and rejoining
+    # Remove duplicates by splitting and rejoiningg
     text = text.rstrip()
     text = re.sub(r'\s+', ' ', text)
     text = text.replace('?', '').replace('"', '').replace('\\', '')
