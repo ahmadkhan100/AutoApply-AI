@@ -8,7 +8,7 @@ This script is a Flask web application that provides a user interface for viewin
 
 ### Key Features:
 - Uses Flask and Flask-Bootstrap for the web interface
-- Reads and writes data to a JSON file (`answers.jsonn`)
+- Reads and writes data to a JSON file (`answers.json`)
 - Allows viewing all questions and answers
 - Supports editing answers
 - Handles both radio button and text input answers
