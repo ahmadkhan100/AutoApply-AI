@@ -627,7 +627,7 @@ To make **AIHawk** automatically start when your system boots, follow the steps 
 
 Navigate to the docs/ directory and download the PDF guides you need.
 
-Written by Ahmad, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
+Written by Ahmad, [Linkedin](linkedin.com/in/ahmad-khan-b6584b225), support him by following.
 
 ### Additional Resources
 
@@ -647,7 +647,7 @@ Auto_Jobs_Applier_AIHawk provides a significant advantage in the modern job mark
 
 - [ahmadkhan100](https://github.com/ahmadkhan100/AutoApply-AI) - Creator and Lead Developer
 
-AutoApplyAI is still in beta, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Auto_Jobs_Applier_AIHawk an even more powerful tool for job seekers worldwide.
+AutoApplyAI is still in beta, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make AutoApply-AI an even more powerful tool for job seekers worldwide.
 
 
 ## License
