@@ -21,15 +21,15 @@
 
 ## Introduction
 
-Auto_Jobs_Applier_AIHawk is a cutting-edge, automated tool designed to revolutionize the job search and application process. In today's fiercely competitive job market, where opportunities can vanish in the blink of an eye, this program offers job seekers a significant advantage. By leveraging the power of automation and artificial intelligence, Auto_Jobs_Applier_AIHawk enables users to apply to a vast number of relevant positions efficiently and in a personalized manner, maximizing their chances of landing their dream job.
+AutoApplyAI is a cutting-edge, automated tool designed to revolutionize the job search and application process. In today's fiercely competitive job market, where opportunities can vanish in the blink of an eye, this program offers job seekers a significant advantage. By leveraging the power of automation and artificial intelligence, AutoApplyAI enables users to apply to a vast number of relevant positions efficiently and in a personalized manner, maximizing their chances of landing their dream job.
 
 ### The Challenge of Modern Job Hunting
 
 In the digital age, the job search landscape has undergone a dramatic transformation. While online platforms have opened up a world of opportunities, they have also intensified competition. Job seekers often find themselves spending countless hours scrolling through listings, tailoring applications, and repetitively filling out forms. This process can be not only time-consuming but also emotionally draining, leading to job search fatigue and missed opportunities.
 
-### Enter Auto_Jobs_Applier_AIHawk: Your Personal Job Search Assistant
+### Enter AutoApplyAI: Your Personal Job Search Assistant
 
-Auto_Jobs_Applier_AIHawk steps in as a game-changing solution to these challenges. It's not just a tool; it's your tireless, 24/7 job search partner. By automating the most time-consuming aspects of the job search process, it allows you to focus on what truly matters - preparing for interviews and developing your professional skills.
+AutoApplyAI steps in as a game-changing solution to these challenges. It's not just a tool; it's your tireless, 24/7 job search partner. By automating the most time-consuming aspects of the job search process, it allows you to focus on what truly matters - preparing for interviews and developing your professional skills.
 
 ## Features
 
@@ -88,9 +88,9 @@ Auto_Jobs_Applier_AIHawk steps in as a game-changing solution to these challenge
 
 3. **Clone the repository:**
    ```bash
-   git clone https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk.git
+   git clone https://github.com/ahmadkhan100/AutoApply-AI
    
-   cd Auto_Jobs_Applier_AIHawk
+   cd AutoApply-AI
    ```
 
 4. **Activate virtual environment:**
@@ -598,7 +598,7 @@ yaml.scanner.ScannerError: while scanning a simple key
 - Check internet connection stability
 - Clear browser cache and cookies if issues persist
 
-For further assistance, please create an issue on the [GitHub repository](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/issues) with detailed information about your problem, including error messages and your configuration (with sensitive information removed).
+For further assistance, please create an issue on the [GitHub repository](https://github.com/ahmadkhan100/AutoApply-AI) with detailed information about your problem, including error messages and your configuration (with sensitive information removed).
 
 **Answer Editor and Cleaner**
 
@@ -610,7 +610,7 @@ See ANSWERS_UTILS.md for more information on the Answer Editor and Cleaner.
 
 To install and configure **Ollama** and **Gemini**, please refer to the following documents:
 
-- [Download Ollama and Gemini Setup Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/blob/main/docs/guide_to_setup_ollama_and_gemini.pdf)
+- [Download Ollama and Gemini Setup Guide (PDF)](https://github.com/ahmadkhan100/AutoApply-AI)
 
 Follow the instructions in these guides to ensure proper configuration of **AIHawk** with **Ollama** and **Gemini**.
 
@@ -618,25 +618,24 @@ Follow the instructions in these guides to ensure proper configuration of **AIHa
 ### Editing YAML Files
 For detailed instructions on editing YAML configuration sections for **AIHawk**, refer to this document:
 
-- [Download YAML Editing Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/blob/main/docs/guide_yaml_sections.pdf)
+- [Download YAML Editing Guide (PDF)](https://github.com/ahmadkhan100/AutoApply-AI)
 
 ### Auto-start AIHawk
 To make **AIHawk** automatically start when your system boots, follow the steps in this guide:
 
-- [Download Auto-start AIHawk Guide (PDF)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/blob/main/docs/guide_to_autostart_aihawk.pdf)
+- [Download Auto-start AIHawk Guide (PDF)](https://github.com/ahmadkhan100/AutoApply-AI)
 
 Navigate to the docs/ directory and download the PDF guides you need.
 
-Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
+Written by Ahmad, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
 
 ### Additional Resources
 
-- [Video Tutorial: How to set up Auto_Jobs_Applier_AIHawk](https://youtu.be/gdW9wogHEUM)
 - [OpenAI API Documentation](https://platform.openai.com/docs/)
 - [Lang Chain Developer Documentation](https://python.langchain.com/v0.2/docs/integrations/components/)
 
 
-If you encounter any issues, you can open an issue on [GitHub](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/issues).
+If you encounter any issues, you can open an issue on [GitHub](https://github.com/ahmadkhan100/AutoApply-AI/issues).
   Please add valuable details to the subject and to the description. If you need new feature then please reflect this.  
   I'll be more than happy to assist you!
 
@@ -646,9 +645,9 @@ Auto_Jobs_Applier_AIHawk provides a significant advantage in the modern job mark
 
 ## Contributors
 
-- [feder-cr](https://github.com/feder-cr) - Creator and Lead Developer
+- [ahmadkhan100](https://github.com/ahmadkhan100/AutoApply-AI) - Creator and Lead Developer
 
-Auto_Jobs_Applier_AIHawk is still in beta, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Auto_Jobs_Applier_AIHawk an even more powerful tool for job seekers worldwide.
+AutoApplyAI is still in beta, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Auto_Jobs_Applier_AIHawk an even more powerful tool for job seekers worldwide.
 
 
 ## License
@@ -656,4 +655,4 @@ Auto_Jobs_Applier_AIHawk is still in beta, and your feedback, suggestions, and c
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
-This tool, Auto_Jobs_Applier_AIHawk, is intended for educational purposes only. The creator assumes no responsibility for any consequences arising from its use. Users are advised to comply with the terms of service of relevant platforms and adhere to all applicable laws, regulations, and ethical guidelines. The use of automated tools for job applications may carry risks, including potential impacts on user accounts. Proceed with caution and at your own discretion.
+This tool, AutoApplyAI, is intended for educational purposes only. The creator assumes no responsibility for any consequences arising from its use. Users are advised to comply with the terms of service of relevant platforms and adhere to all applicable laws, regulations, and ethical guidelines. The use of automated tools for job applications may carry risks, including potential impacts on user accounts. Proceed with caution and at your own discretion.
